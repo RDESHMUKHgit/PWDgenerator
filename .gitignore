@@ -32,6 +32,8 @@ MANIFEST
 *.manifest
 *.spec
 
+password_history.txt
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
